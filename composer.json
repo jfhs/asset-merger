@@ -5,7 +5,7 @@
     },
     "extra": {
         "branch-alias": {
-            "dev-master": "3.3.x-stable"
+            "dev-trunk": "3.3.x-stable"
         }
     }
 }
