@@ -1,5 +1,6 @@
 {
     "name": "jfhs/asset-merger",
+    "type": "kohana-module",
     "require": {
         "kohana/core": "3.3.*"
     },
