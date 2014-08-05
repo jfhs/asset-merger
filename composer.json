@@ -1,0 +1,11 @@
+{
+    "name": "jfhs/assets-merger",
+    "require": {
+        "kohana/core": "3.3.*"
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "3.3.x-stable"
+        }
+    }
+}
